@@ -656,26 +656,33 @@ window.SITE_DB = {
       "fromPage": "architecture"
     },
     "Mies Van Der-Rohe X Arc De Triomphe": {
+      "background": "black",
       "title": "Mies Van Der-Rohe X Arc De Triomphe",
-      "subtitle": "Academic Work, 2022",
+      "subtitle": "Academic Work, 2025",
       "meta": [
         {
           "label": "Year:",
-          "value": "2022"
+          "value": "2024"
         },
         {
           "label": "Location:",
-          "value": "Giza, Egypt"
+          "value": "Paris, France"
         },
         {
-          "label": "Program:",
-          "value": "Urban Research"
+          "label": "Status:",
+          "value": "Academic"
         }
       ],
       "description": [
-        "The Multilateral explores multi-layered infrastructure in Giza."
+        "Reimagining the Arc de Triomphe through the lens of Ludwig Mies van der Rohe’s modernist philosophy, emphasizing simplicity, clarity, and material authenticity while preserving its symbolic essence as a landmark."
       ],
       "gallery": [
+        {
+          "cols": 1,
+          "images": [
+            "content/architecture/Mies Van Der-Rohe X Arc De Triomphe/images/m2.jpg"
+          ]
+        },
         {
           "cols": 1,
           "images": [
@@ -685,28 +692,19 @@ window.SITE_DB = {
         {
           "cols": 1,
           "images": [
-            "content/architecture/Mies Van Der-Rohe X Arc De Triomphe/images/c5329d217749693.6796229e14364.webp"
+            "content/architecture/Mies Van Der-Rohe X Arc De Triomphe/images/momo.jpg"
           ]
         },
         {
-          "cols": 2,
+          "cols": 1,
           "images": [
-            "content/architecture/Mies Van Der-Rohe X Arc De Triomphe/images/5078d8217749693.6798b9ea9f7dc.webp",
-            "content/architecture/Mies Van Der-Rohe X Arc De Triomphe/images/faa600217749693.6798c7d2ec56d.webp"
+            "content/architecture/Mies Van Der-Rohe X Arc De Triomphe/images/2cd1b4217749693.679f5a810c4d6.webp"
           ]
         },
         {
-          "cols": 2,
+          "cols": 1,
           "images": [
-            "content/architecture/Mies Van Der-Rohe X Arc De Triomphe/images/d1005c217749693.6798b9e9f31df.webp",
-            "content/architecture/Mies Van Der-Rohe X Arc De Triomphe/images/739016217749693.6798d918d7147.webp"
-          ]
-        },
-        {
-          "cols": 2,
-          "images": [
-            "content/architecture/Mies Van Der-Rohe X Arc De Triomphe/images/2cd1b4217749693.679f5a810c4d6.webp",
-            "content/architecture/Mies Van Der-Rohe X Arc De Triomphe/images/ae8b94217749693.6798cf6c1a634.webp"
+            "content/architecture/Mies Van Der-Rohe X Arc De Triomphe/images/21.jpg"
           ]
         },
         {
@@ -1492,6 +1490,7 @@ window.SITE_DB = {
     "sliderImages": [
       "content/home/images/Maquette 1.jpg",
       "content/home/images/The Caustic.webp",
+      "content/home/images/m2.jpg",
       "content/home/images/Main Shot wesal.jpg",
       "content/home/images/Maquette2.jpg",
       "content/home/images/Madinaty Apartment  Interior Design.webp",

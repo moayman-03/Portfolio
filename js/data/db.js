@@ -1483,6 +1483,7 @@ window.SITE_DB = {
   "homeData": {
     "sliderImages": [
       "content/home/images/The Caustic.webp",
+      "content/home/images/Maquette2.jpg",
       "content/home/images/Wesal- Dewan Award Competition 2024.webp",
       "content/home/images/Madinaty Apartment  Interior Design.webp",
       "content/home/images/ROSETTA.webp",

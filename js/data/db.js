@@ -1489,7 +1489,13 @@ window.SITE_DB = {
       "content/home/images/Madinaty Apartment  Interior Design.webp",
       "content/home/images/ROSETTA.webp",
       "content/home/images/AL-GHEYYA.webp"
-    ]
+    ],
+    "heroText": {
+      "roles": [
+        "Architect"
+      ],
+      "tagline": "Investigating architectural practice through research and design."
+    }
   },
   "photography": [
     {

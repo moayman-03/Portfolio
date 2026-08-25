@@ -78,13 +78,13 @@ document.addEventListener('DOMContentLoaded', () => {
           
           <!-- Education -->
           <div class="cv-section">
-            <h3 class="cv-section-title">Education</h3>
+            <h3 class="cv-section-title">EDUCATION</h3>
             ${educationHTML}
           </div>
 
           <!-- Experience -->
           <div class="cv-section">
-            <h3 class="cv-section-title">Experience</h3>
+            <h3 class="cv-section-title">EXPERIENCE</h3>
             ${experienceHTML}
           </div>
 
@@ -97,11 +97,11 @@ document.addEventListener('DOMContentLoaded', () => {
           <!-- Bottom Grid: Softwares & Skills -->
           <div class="cv-bottom-grid">
             <div class="cv-section">
-              <h3 class="cv-section-title">Softwares</h3>
+              <h3 class="cv-section-title">SOFTWARES</h3>
               <p class="cv-text-block">${data.softwares || ''}</p>
             </div>
             <div class="cv-section">
-              <h3 class="cv-section-title">Soft Skills</h3>
+              <h3 class="cv-section-title">SOFT SKILLS</h3>
               <p class="cv-text-block">${data.softSkills || ''}</p>
             </div>
           </div>

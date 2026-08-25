@@ -50,22 +50,29 @@ window.SITE_DB = {
       "image": "content/home/images/AL-GHEYYA.webp",
       "title": "AL-GHEYYA",
       "subtitle": "Project by Mohamed Ayman",
+      "linkToProject": "AL-GHEYYA"
+    },
+    {
+      "id": "AL-GHEYYA",
+      "image": "content/home/images/12.jpg",
+      "title": "AL-GHEYYA",
+      "subtitle": "Project by Mohamed Ayman",
       "linkToProject": "AL-GHEYYA",
       "bentoSize": "1x1"
     },
     {
       "id": "Wesal- Dewan Award Competition 2024",
-      "image": "content/home/images/Wesal- Dewan Award Competition 2024 - Copy.webp",
+      "image": "content/home/images/Main Shot wesal.jpg",
       "title": "Wesal- Dewan Award Competition 2024",
       "subtitle": "Project by Mohamed Ayman",
       "linkToProject": "Wesal- Dewan Award Competition 2024"
     },
     {
-      "id": "Madinaty Apartment  Interior Design",
-      "image": "content/home/images/Madinaty Apartment  Interior Design.webp",
-      "title": "Madinaty Apartment  Interior Design",
+      "id": "The Caustic",
+      "image": "content/home/images/02) Aerial view.jpg",
+      "title": "The Caustic",
       "subtitle": "Project by Mohamed Ayman",
-      "linkToProject": "Madinaty Apartment  Interior Design"
+      "linkToProject": "The Caustic"
     },
     {
       "id": "ROSETTA",
@@ -87,17 +94,10 @@ window.SITE_DB = {
       "title": "THE FLUX",
       "subtitle": "Project by Mohamed Ayman",
       "linkToProject": "THE FLUX"
-    },
-    {
-      "id": "Wesal- Dewan Award Competition 2024",
-      "image": "content/home/images/Wesal- Dewan Award Competition 2024.webp",
-      "title": "Wesal- Dewan Award Competition 2024",
-      "subtitle": "Project by Mohamed Ayman",
-      "linkToProject": "Wesal- Dewan Award Competition 2024"
     }
   ],
   "about": {
-    "image": "content/about/images/portrait.png",
+    "image": "content/about/images/m5.jpg",
     "leftColSubtitle": "Junior Architect (Fresh Grad)",
     "paragraphs": [
       "As an Architecture student at Ain Shams University, I'm driven by design, creativity, and exploration. Beyond academics, I engage in student activities and competitions, honing teamwork, leadership, and problem-solving skills.",
@@ -114,7 +114,7 @@ window.SITE_DB = {
     },
     "education": [
       {
-        "date": "SEP 2022- Present",
+        "date": "SEP 2022- JUN 2026",
         "title": "<strong>Student | Dept of Architecture</strong> | Ain Shams university, Cairo, Egypt"
       }
     ],
@@ -325,6 +325,14 @@ window.SITE_DB = {
           "cols": 2,
           "images": [
             "content/architecture/AL-GHEYYA/images/2bceb4231699431.68bade9b9a3ac.webp",
+            "content/architecture/AL-GHEYYA/images/374fa5231699431.68b49148498d0.webp"
+          ]
+        },
+        {
+          "cols": 3,
+          "images": [
+            "content/architecture/AL-GHEYYA/images/2bceb4231699431.68bade9b9a3ac.webp",
+            "content/architecture/AL-GHEYYA/images/04) Night shot.jpg",
             "content/architecture/AL-GHEYYA/images/374fa5231699431.68b49148498d0.webp"
           ]
         },

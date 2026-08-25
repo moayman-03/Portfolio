@@ -1,11 +1,11 @@
 {
-  "background": "black",
-  "title": "AL-GHEYYAaaaa",
+  "background": "White",
+  "title": "AL-GHEYYA",
   "subtitle": "​EGYPT URBAN OASIS Competition by REC & BASE studio 1st PLACE WINNERS",
   "meta": [
     {
       "label": "Year:",
-      "value": "2029"
+      "value": "2025"
     },
     {
       "label": "Location:",
@@ -128,5 +128,5 @@
       ]
     }
   ],
-  "hero": "images/8d86af231699431.68b485bd22bcd.jpg"
+  "hero": "images/Main shot.jpg"
 }

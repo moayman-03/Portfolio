@@ -1493,7 +1493,7 @@ window.SITE_DB = {
       "content/home/images/m2.jpg",
       "content/home/images/Main Shot wesal.jpg",
       "content/home/images/Maquette2.jpg",
-      "content/home/images/Madinaty Apartment  Interior Design.webp",
+      "content/home/images/ComfyUI_00002_.png",
       "content/home/images/ROSETTA.webp",
       "content/home/images/AL-GHEYYA.webp"
     ],
@@ -1506,34 +1506,44 @@ window.SITE_DB = {
   },
   "photography": [
     {
-      "src": "content/photography/images/AL-GHEYYA.webp",
-      "title": "Al-Gheyya",
-      "details": "Architecture"
+      "src": "content/photography/images/IMG_0672-1.jpg",
+      "title": "Gheyya",
+      "details": "Cairo 2025"
     },
     {
-      "src": "content/photography/images/Madinaty Apartment  Interior Design.webp",
-      "title": "Madinaty Apartment",
-      "details": "Interior Design"
+      "src": "content/photography/images/re.jpg",
+      "title": "Al-Moez street",
+      "details": "Cairo 2025"
     },
     {
-      "src": "content/photography/images/ROSETTA.webp",
-      "title": "Rosetta",
-      "details": "Concept"
+      "src": "content/photography/images/j1.jpg",
+      "title": "Zamalek",
+      "details": "Cairo 2026"
     },
     {
-      "src": "content/photography/images/THE FLUX.webp",
-      "title": "The Flux",
-      "details": "Design"
+      "src": "content/photography/images/20240415_141816.jpg",
+      "title": "ElSayeda Zainab",
+      "details": "Cairo 2024"
     },
     {
-      "src": "content/photography/images/The Caustic.webp",
-      "title": "The Caustic",
-      "details": "Installation"
+      "src": "content/photography/images/mo 2.jpg",
+      "title": "Al-Moez street",
+      "details": "Cairo 2025"
     },
     {
-      "src": "content/photography/images/Wesal- Dewan Award Competition 2024.webp",
-      "title": "Wesal",
-      "details": "Dewan Award 2024"
+      "src": "content/photography/images/4 copy.jpg",
+      "title": "Al-Moez street",
+      "details": "Cairo 2025"
+    },
+    {
+      "src": "content/photography/images/2 copy.jpg",
+      "title": "Cairo's skyline",
+      "details": "Cairo 2025"
+    },
+    {
+      "src": "content/photography/images/ibn-tulun.jpg",
+      "title": "Ibn-tulun",
+      "details": "Cairo 2024"
     }
   ]
 };

@@ -1006,8 +1006,9 @@ window.SITE_DB = {
       "fromPage": "architecture"
     },
     "THE FLUX": {
+      "background": "black",
       "title": "THE FLUX",
-      "subtitle": "​EGYPT URBAN OASIS Competition by REC & BASE studio 1st PLACE WINNERS",
+      "subtitle": "Re-imagining the drawing hall in Ainshams university",
       "meta": [
         {
           "label": "Year:",
@@ -1015,11 +1016,11 @@ window.SITE_DB = {
         },
         {
           "label": "Location:",
-          "value": "Al-Moez, Cairo, Egypt"
+          "value": "Faculty of Engineering-Ainshams university"
         },
         {
-          "label": "Program:",
-          "value": "Urban Retreat"
+          "label": "Status:",
+          "value": "Interior design"
         }
       ],
       "description": [
@@ -1033,30 +1034,50 @@ window.SITE_DB = {
           ]
         },
         {
-          "cols": 2,
+          "cols": 1,
           "images": [
-            "content/architecture/THE FLUX/images/03ab00240768399.695fc6ac1db67.gif",
+            "content/architecture/THE FLUX/images/03ab00240768399.695fc6ac1db67.gif"
+          ]
+        },
+        {
+          "cols": 1,
+          "images": [
             "content/architecture/THE FLUX/images/1828cd240768399.695c759a8d60f.webp"
           ]
         },
         {
-          "cols": 2,
+          "cols": 1,
           "images": [
-            "content/architecture/THE FLUX/images/a4f6a9240768399.695c759a8bd45.webp",
+            "content/architecture/THE FLUX/images/a4f6a9240768399.695c759a8bd45.webp"
+          ]
+        },
+        {
+          "cols": 1,
+          "images": [
             "content/architecture/THE FLUX/images/812bcd240768399.695d0455a68f5.webp"
           ]
         },
         {
-          "cols": 2,
+          "cols": 1,
           "images": [
-            "content/architecture/THE FLUX/images/470f2f240768399.695c858b34256.gif",
+            "content/architecture/THE FLUX/images/470f2f240768399.695c858b34256.gif"
+          ]
+        },
+        {
+          "cols": 1,
+          "images": [
             "content/architecture/THE FLUX/images/867ddb240768399.695c652fc74ce.webp"
           ]
         },
         {
-          "cols": 2,
+          "cols": 1,
           "images": [
-            "content/architecture/THE FLUX/images/335724240768399.695cb6bb6137a.webp",
+            "content/architecture/THE FLUX/images/335724240768399.695cb6bb6137a.webp"
+          ]
+        },
+        {
+          "cols": 1,
+          "images": [
             "content/architecture/THE FLUX/images/1853fe240768399.695d297150dac.gif"
           ]
         },
@@ -1067,9 +1088,14 @@ window.SITE_DB = {
           ]
         },
         {
-          "cols": 2,
+          "cols": 1,
           "images": [
-            "content/architecture/THE FLUX/images/602466240768399.695c759a8cd45.webp",
+            "content/architecture/THE FLUX/images/602466240768399.695c759a8cd45.webp"
+          ]
+        },
+        {
+          "cols": 1,
+          "images": [
             "content/architecture/THE FLUX/images/cec67e240768399.695c759a8c729.webp"
           ]
         },
@@ -1087,9 +1113,14 @@ window.SITE_DB = {
           ]
         },
         {
-          "cols": 2,
+          "cols": 1,
           "images": [
-            "content/architecture/THE FLUX/images/1d15b7240768399.695c52c266b52.webp",
+            "content/architecture/THE FLUX/images/MAIN 2.jpg"
+          ]
+        },
+        {
+          "cols": 1,
+          "images": [
             "content/architecture/THE FLUX/images/6bd0c4240768399.695d0455a6235.webp"
           ]
         },
@@ -1117,13 +1148,18 @@ window.SITE_DB = {
           "cols": 2,
           "images": [
             "content/architecture/THE FLUX/images/2cd4cc240768399.695d2abc598d1.webp",
-            "content/architecture/THE FLUX/images/84c0bf240768399.695c7659ba371.jpg"
+            "content/architecture/THE FLUX/images/179c03240768399.695c1c763ee9e.webp"
           ]
         },
         {
-          "cols": 2,
+          "cols": 1,
           "images": [
-            "content/architecture/THE FLUX/images/8800b6240768399.695c8ee476c3b.jpg",
+            "content/architecture/THE FLUX/images/8800b6240768399.695c8ee476c3b.jpg"
+          ]
+        },
+        {
+          "cols": 1,
+          "images": [
             "content/architecture/THE FLUX/images/a069c5240768399.695c684dbb67c.webp"
           ]
         },
@@ -1136,25 +1172,17 @@ window.SITE_DB = {
         {
           "cols": 1,
           "images": [
-            "content/architecture/THE FLUX/images/179c03240768399.695c1c763ee9e.webp"
+            "content/architecture/THE FLUX/images/6c67ad240768399.695d44ab03919.gif"
           ]
         },
         {
-          "cols": 2,
+          "cols": 1,
           "images": [
-            "content/architecture/THE FLUX/images/2e778e240768399.695c1c763f9e2.webp",
-            "content/architecture/THE FLUX/images/97b98a240768399.695d3993b308b.gif"
-          ]
-        },
-        {
-          "cols": 2,
-          "images": [
-            "content/architecture/THE FLUX/images/6c67ad240768399.695d44ab03919.gif",
             "content/architecture/THE FLUX/images/12da15240768399.695d3cdf11282.jpg"
           ]
         }
       ],
-      "hero": "content/architecture/THE FLUX/images/1b4d47240768399.695d23565513c.gif",
+      "hero": "content/architecture/THE FLUX/images/867ddb240768399.695c652fc74ce.webp",
       "fromPage": "architecture"
     },
     "Wesal- Dewan Award Competition 2024": {
